@@ -11,4 +11,7 @@ This is an example of a paragraph
 This is an example of a paragraph 
 
 ## Deployment
+
+Another example of a paragraph
+
 ## How to contribute
